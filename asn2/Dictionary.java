@@ -1,4 +1,4 @@
-/**AUTHOR: HADI EL-KADRI 251015226
+/**AUTHOR: HADI EL-KADRI 
  * 
  *Class Dictionary implements DictionaryADT and initializes 
  * a dictionary of input size
