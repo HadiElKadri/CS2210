@@ -1,5 +1,5 @@
 /**
- * @author Hadi El-Kadri 251015226
+ * @author Hadi El-Kadri
  * Public class Binary Search Tree represents a BST 
  */
 
